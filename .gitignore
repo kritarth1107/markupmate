@@ -1,0 +1,21 @@
+# node
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+
+# system
+.DS_Store
+
+# editor / tooling
+.vscode/
+.idea/
+.env
+.env.*
+
+# build / dev tools
+tailwind.output.css
+*.css.map
+
+# misc
+coverage/

@@ -1,0 +1,23 @@
+# Don't publish source or local dev files
+src/
+example/
+node_modules/
+.git
+.gitignore
+npm-debug.log
+tsconfig.json
+tailwind.config.js
+postcss.config.js
+vite.config.ts
+*.config.js
+*.test.*
+*.spec.*
+__tests__/
+.storybook/
+.vscode/
+.env*
+yarn.lock
+.pnpm-debug.log
+*.DS_Store
+tailwind.css
+tailwind.output.css
